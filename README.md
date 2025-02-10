@@ -7,12 +7,16 @@
 一、环境配置
 
 1. 软件：
+   
 Chrome
+
 Python（服务器需要用管理员账号安装）
+
 VS Code
-插件：中文标点符号转英文；Black Formatter；Chinese (Simplified) (简体中文) Language Pack for Visual Studio Code；Python
+还需插件：中文标点符号转英文；Black Formatter；Chinese (Simplified) (简体中文) Language Pack for Visual Studio Code；Python
 
 2. 安装所需的库（需先安装Python）
+
 pandas: 用于数据处理和CSV文件操作。
 selenium: 用于网页抓取和自动化浏览器操作。
 scholarly: 用于与Google Scholar的交互。
