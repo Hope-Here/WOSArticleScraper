@@ -46,9 +46,9 @@ main.py为主函数文件，其中有三个主函数main_run_all、main_scholarl
 三、运行注意事项
 
 1. 运行main函数需要检查：
-1) author_name
-2) last_name（中文作者需要手动设置）
-3)运行main函数的哪一种？共有三种main_run_all、main_scholarly_only、main_start_by_csv。最后一种要注意original_csv的设置（注意输入的是all（断点续传）还是original（从零开始））
+(1) author_name
+(2) last_name（中文作者需要手动设置）
+(3)运行main函数的哪一种？共有三种main_run_all、main_scholarly_only、main_start_by_csv。最后一种要注意original_csv的设置（注意输入的是all（断点续传）还是original（从零开始））
 
 2. 被scholarly关小黑屋的时长大概是一天；被WOS关小黑屋的时长大约是半天
 
